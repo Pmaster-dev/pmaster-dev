@@ -1,5 +1,3 @@
-Pmaster-dev Open Source, Source-Available, and Proprietary Strategy
-
 Overview
 
 Pmaster-dev follows a hybrid software model that combines open-source collaboration with protected proprietary technology.
